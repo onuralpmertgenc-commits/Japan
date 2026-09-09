@@ -19,7 +19,7 @@ _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant le
 ## Le festival
 
 - **Thème :** Japon
-- **En une phrase :**
+- **En une phrase :** Immersion au coeur du Japon
 - **Blind test envisagé :** audio / vidéo — sur quoi ?
 
 ## Lancer le projet
