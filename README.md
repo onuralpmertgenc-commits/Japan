@@ -7,7 +7,7 @@
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
 | Onuralp MERTGENC           |                 |        |
-|Hugo MOUA NOU TOUA|                 |        |
+|Hugo MOUA NOU TOUA|hsnip47-blip|        |
 
 ### Répartition du travail
 
