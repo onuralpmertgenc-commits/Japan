@@ -13,14 +13,14 @@
 
 _Qui tient quels fichiers ? À revoir toutes les 3-4 séances, en échangeant les rôles._
 
-- **[Nom 1] →**
+- **[Hugo] →**
 - **[Nom 2] →**
 
 ## Le festival
 
 - **Thème :** Japon
 - **En une phrase :** Immersion au coeur du Japon
-- **Blind test envisagé :** audio / vidéo — sur quoi ?
+- **Blind test envisagé :** Blind test sonore (animé, j-pop, j-drama,...)
 
 ## Lancer le projet
 
